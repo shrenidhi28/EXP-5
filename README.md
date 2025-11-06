@@ -34,11 +34,15 @@ Circuit:
 
 OBSERVATIONS:
 
-Load Resistor 
-![WhatsApp Image 2025-10-30 at 11 53 05_3ac0fbc9](https://github.com/user-attachments/assets/05fef2e0-b886-4b7d-a6c1-f208893a2f65)
+![image](https://github.com/user-attachments/assets/a0b53630-be47-4e4e-903f-94b9be6f22dc)
 
-Line Resistor
-![WhatsApp Image 2025-10-30 at 11 53 36_f52d6d9b](https://github.com/user-attachments/assets/6c9aebc6-1023-481b-a428-9d90a79e5b5e)
+![image](https://github.com/user-attachments/assets/fdc56c20-be05-42d0-b8b3-b2507ab90317)
+
+![image](https://github.com/user-attachments/assets/77d3b0d2-a29c-42ef-9938-9ee3e398ad75)
+
+
+![image](https://github.com/user-attachments/assets/e14c6e8d-a4a5-4527-b3b1-6daf08321b7d)
+
 
 
 REGULATION CHARACTERISTICS:
